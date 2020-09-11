@@ -1,2 +1,3 @@
-# Password_Generator
+# Password_Generator (V:1.1).
 a javascript password generator which generates random password and strong password.
+#The code will be styled and improved with time but for now its working fine...
